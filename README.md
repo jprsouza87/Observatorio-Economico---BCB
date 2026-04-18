@@ -1,9 +1,6 @@
 # Observatorio Economico - BCB
 https://indicadoresbcb.streamlit.app/
 
-<div align="center">
-  <img src="link_para_a_sua_logo_transparente_python_solutions.png" alt="Python Solutions Logo" width="300">
-
   <h1>📊 Observatório Econômico Automatizado</h1>
 
   <p>
