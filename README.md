@@ -7,13 +7,6 @@ https://indicadoresbcb.streamlit.app/
     <strong>Uma aplicação web interativa para monitoramento em tempo real de indicadores macroeconômicos brasileiros.</strong>
   </p>
 
-  <a href="seu_link_do_streamlit_cloud_aqui">
-    <img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg" alt="Open in Streamlit">
-  </a>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Data_Science-Business_Intelligence-00ffcc?style=for-the-badge" alt="Data Science">
-</div>
-
 ---
 
 ## 📝 Sobre o Projeto
