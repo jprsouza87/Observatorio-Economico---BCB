@@ -1,4 +1,5 @@
 # Observatorio Economico - BCB
+https://indicadoresbcb.streamlit.app/
 
 <div align="center">
   <img src="link_para_a_sua_logo_transparente_python_solutions.png" alt="Python Solutions Logo" width="300">
@@ -47,9 +48,10 @@ O ecossistema do projeto é 100% baseado em Python, dispensando ferramentas trad
 
 ## ⚙️ Como executar o projeto localmente
 
-Se você deseja clonar o repositório e rodar a aplicação na sua própria máquina, siga os passos abaixo:
+Acesse: https://indicadoresbcb.streamlit.app/
 
-**1. Clone o repositório:**
-```bash
-git clone [https://github.com/seu-usuario/Observatorio_Economico.git](https://github.com/seu-usuario/Observatorio_Economico.git)
-cd Observatorio_Economico
+---
+
+## 👤 Autor
+
+João Paulo R. Souza — [github.com/jprsouza87](https://github.com/jprsouza87)
